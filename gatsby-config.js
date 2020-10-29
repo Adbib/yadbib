@@ -10,7 +10,7 @@ module.exports = {
       options: {
         url: process.env.WPGRAPHQL_URL || `https://yadbib.com/graphql`,
       },
-   }
+   },
    
     `gatsby-plugin-react-helmet`,
     {
